@@ -1,11 +1,11 @@
 {
   "addonName": {
-    "message": "Google Search Fixer"
+    "message": "Facebook Image resolution Fixer"
   },
   "addonDescription": {
-    "message": "Override the user-agent string presented to Google Search pages to receive the search experience shown to Chrome."
+    "message": "Override the user-agent string presented to Facebook Search pages to receive the search experience shown to Chrome."
   },
   "addonAuthorsList": {
-    "message": "Thomas Wisniewski <twisniewski@mozilla.com>"
+    "message": "Fese <fese@mozilla.com>"
   }
 }

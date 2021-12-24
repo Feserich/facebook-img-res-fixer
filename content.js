@@ -2,7 +2,7 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
-// Override the navigator.userAgent value Google Search sees
+// Override the navigator.userAgent value facebook sees
 
 
 Object.defineProperty(
